@@ -1,5 +1,11 @@
 # Retail Sales Performance Dashboard (Power BI Project)
 
+## 📌 Key Files
+
+- 📊 Dashboard Preview → dashboard_preview.png  
+- 🧠 Analysis Script → analysis.py  
+- 📘 Project Documentation → README.md  
+
 ## Project Overview
 This project analyzes a retail sales dataset using Power BI to identify trends, profitability drivers, and regional performance insights. The goal is to transform raw transactional data into actionable business intelligence through interactive visual dashboards.
 
