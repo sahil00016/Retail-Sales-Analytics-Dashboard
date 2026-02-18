@@ -64,6 +64,8 @@ This dashboard enables stakeholders to:
 This project was built as part of a hands-on data analytics portfolio to demonstrate practical data analysis, visualization, and business insight generation skills.
 
 ---
+<img width="1360" height="764" alt="image" src="https://github.com/user-attachments/assets/069994a9-cd4b-4c2b-b73d-f931ec9e2604" />
+
 
 ## Preview
 (Insert dashboard image here after upload)
