@@ -1,0 +1,34 @@
+SALES PERFORMANCE ANALYSIS — KEY FINDINGS
+
+Dataset Overview
+- Total Transactions: 9,994
+- Total Revenue: $2.29M
+- Total Profit: $286K+
+- Total Orders: 1,401
+
+Revenue Insights
+- The West region generates the highest revenue contribution.
+- Technology category is the top-performing category.
+- A small group of products contributes disproportionately high revenue (Pareto effect observed).
+
+Profitability Insights
+- Profit decreases significantly as discount increases.
+- Discounts above 20% consistently result in losses.
+- High discount strategies are negatively impacting overall profitability.
+
+Sales Trend Insights
+- Sales show seasonal patterns with noticeable peaks in certain months.
+- Trend suggests periodic spikes likely due to promotional or festive periods.
+
+Regional Performance
+- Revenue distribution across regions is uneven.
+- Some regions generate high sales but lower profit margins.
+
+Business Recommendations
+- Avoid discounts greater than 20% unless clearing old inventory.
+- Focus marketing efforts on top-performing products.
+- Reevaluate pricing strategy in low-profit regions.
+- Prepare inventory in advance for seasonal demand peaks.
+
+Conclusion
+This analysis demonstrates how pricing strategy, product performance, and regional demand influence business profitability and growth.

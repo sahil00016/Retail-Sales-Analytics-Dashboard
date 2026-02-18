@@ -1,0 +1,41 @@
+project:
+  name: Retail Sales Analytics Dashboard
+  domain: Data Analytics
+  type: End-to-End Analysis Project
+
+dataset:
+  source: Public Retail Dataset
+  records: 9994
+  features: 21
+
+objectives:
+  - Analyze sales performance
+  - Evaluate profitability trends
+  - Identify top products
+  - Assess regional distribution
+  - Understand discount impact
+
+workflow:
+  - Data Cleaning
+  - Data Validation
+  - Exploratory Analysis
+  - KPI Calculation
+  - Visualization
+  - Insight Generation
+
+tools:
+  - Python
+  - Pandas
+  - Power BI
+
+skills_demonstrated:
+  - Data Cleaning
+  - Exploratory Data Analysis
+  - Data Visualization
+  - Business Analysis
+  - Insight Generation
+
+output:
+  dashboard: dashboard.pbix
+  preview: dashboard_preview.png
+  insights: insights.txt
